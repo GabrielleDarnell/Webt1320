@@ -1,10 +1,10 @@
 body {
-    background-color:#4C5973;
+    background-color:#FDE5CB;
     font-family: 'Besley', serif;
 }
 
 #container {
-    background-color:#F26D6D;
+    background-color:#6B4884;
     width: 900px;
     margin: 20px auto;
     border-radius: 20px;
@@ -13,7 +13,7 @@ body {
 
  header {
      padding: 20px 0;
-     background-color:#CEF299;
+     background-color: #F3631F;
      border-radius: 20px 20px 0 0;
  }
 
@@ -26,38 +26,38 @@ body {
  header h1 {
      font-size: 2.5em;
      text-align: center;
-     color: #F26D6D;
+     color: #6B4884;
      font-family: 'Oswald', sans-serif;
      text-shadow: 2px 2px 2px #000;
  }
 
  nav {
-     background-color: #F26D6D;
+     background-color: #6B4884;
      padding-top: 10px;
      text-align: center;
  }
 
  nav a {
      display: inline-block;
-     background-color: #CEF299;
+     background-color: #F3631F;
      height: 50px;
      width: 175px;
      font-size: 1.5em;
      font-weight: bold;
      line-height: 50px;
-     color:#4C5973;
+     color:#FDE5CB;
      text-decoration: none;
      border-radius: 10px 10px 0 0;
      margin: 0 10px;
  }
 
  nav a:hover {
-     background-color: #4C5973;
-     color:#CEF299;
+     background-color: #FDE5CB;
+     color:#F3631F;
  }
 
  main {
-     background-color:#CEF299;
+     background-color: #F3631F;
      padding: 20px;
      margin: 0 20px 20px 20px
  
@@ -65,7 +65,7 @@ body {
 
     main h2 {
        text-align: center;
-       color:#4C5973;
+       color:#6B4884;
        font-size: 2em; 
        font-family: 'Oswald', sans-serif;
     }
@@ -74,28 +74,28 @@ main img {
     display: block;
     width: 50%;
     margin: 20px auto;
-    background-color: #4C5973;
+    background-color: #FDE5CB;
     padding: 20px;
     border-radius: 20px;
 }
 
 footer {
-    background-color: #CEF299;
+    background-color: #F3631F;
     padding: 60px 0;
-    color:#F26D6D;
+    color:#FDE5CB;
     font-size: 1.5em; 
     text-align: center;
     border-radius: 0 0 20px 20px;
  }
 
  .active {
-    background-color: #4C5973;
-    color:#CEF299;   
+    background-color: #FDE5CB;
+    color:#F3631F;   
  }
 
  .pro_head {
      text-align: center;
-     color:#F26D6D;
+     color:#FDE5CB;
      font-size: 1.5em;
      font-family: 'Oswald', sans-serif;
  }
