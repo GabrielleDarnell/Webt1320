@@ -217,7 +217,7 @@ table, tr, td {
 }
 
 table img {
-    float: center;
+    float: left;
     width:  600px;
     height: 600px;
     object-fit: cover;
